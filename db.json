@@ -1,56 +1,56 @@
 {
   "messages": [
     {
-      "userId": 1,
       "name": "UserName1",
-      "text": "MessageText1"
+      "text": "MessageText1",
+      "id": 1
     },
     {
-      "userId": 2,
       "name": "UserName2",
-      "text": "MessageText2"
+      "text": "MessageText2",
+      "id": 2
     },
     {
-      "userId": 3,
       "name": "UserName3",
-      "text": "MessageText3"
+      "text": "MessageText3",
+      "id": 3
     },
     {
-      "userId": 2,
       "name": "UserName2",
-      "text": "MessageText2"
+      "text": "MessageText2",
+      "id": 2
     },
     {
-      "userId": 1,
       "name": "UserName1",
-      "text": "MessageText1"
+      "text": "MessageText1",
+      "id": 1
     }
   ],
   "users": [
     {
-      "userId": 1,
       "name": "UserName1",
-      "password": "password1"
+      "password": "password1",
+      "id": 1
     },
     {
-      "userId": 2,
       "name": "UserName2",
-      "password": "password2"
+      "password": "password2",
+      "id": 2
     },
     {
-      "userId": 3,
       "name": "UserName3",
-      "password": "password3"
+      "password": "password3",
+      "id": 3
     },
     {
-      "userId": 4,
       "name": "UserName4",
-      "password": "password4"
+      "password": "password4",
+      "id": 4
     },
     {
-      "userId": 5,
       "name": "UserName5",
-      "password": "password5"
+      "password": "password5",
+      "id": 5
     }
   ]
 }
